@@ -5,9 +5,9 @@ setup(
     version='0.2.1',
     description='Classes for technical analysis of zomato dataset.',
     author='Sameer',
-    author_email='',
+    author_email='amohamm8@mail.yu.edu',
     license='MIT',
-    url='',
+    url='https://github.com/Sameersam100/Zomato_EDA',
     packages=['zomato'],
     install_requires=[
         'matplotlib>=3.0.2',
